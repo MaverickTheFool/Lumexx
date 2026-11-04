@@ -1,0 +1,2 @@
+# Lumexx
+proyecto escolar
